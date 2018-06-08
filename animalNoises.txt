@@ -1,0 +1,4 @@
+monkey	Squeak
+dog	Woof
+elephant	Squeak
+kitty	Meow
